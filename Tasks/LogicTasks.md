@@ -1,7 +1,7 @@
 # Логически задачи
 
 ## Задача 1
-Влизаме в галерия и виждаме един човек да се взира в картина. Питаме този човек какво вижда (на английски, защото има рима): Brothers and sisters I have none, but this man's father is my father's son. Кой е човекът в картината?
+Влизаме в галерия и виждаме един човек да се взира в картина. Питаме този човек какво вижда и той ни отговаря (на английски, защото има рима): Brothers and sisters I have none, but this man's father is my father's son. Кой е човекът в картината?
 
 ## Задача 2
 Същата задача. Човекът казва: Brothers and sisters I have none, but this man's son is my father's son. Кой е човекът в картината?
